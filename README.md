@@ -1,16 +1,16 @@
 ## Hello world 👋
 
 Me chamo Ana Júlia, mais conhecida como Aninha. 
+
 Tenho 20 anos e sou apaixonada por tecnologia e cinema 🎞️
 
-Atualmente trabalhando na Alura e cursando Análise e Desenvolvimento de Sistemas 🤿 
+Atualmente trabalhando na escola de tecnologia **[Alura](https://cursos.alura.com.br/user/ana-oliveira17)** e cursando Análise e Desenvolvimento de Sistemas 🤿 
 
 
 
 ## Estou estudando
  ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
  ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
- ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
  ### Outras tecnologias e ferramentas
  
@@ -19,16 +19,12 @@ Atualmente trabalhando na Alura e cursando Análise e Desenvolvimento de Sistema
  ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
  ![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
- 
- ⚡ Sou apaixonada por hora de aventura e meu personagem favorito é o BMO 
           
- ## Como me encontrar
+ ## Contato
  
-<a href="mailto:contato@anajulia-m.oliveira@alura.com.br" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a> 
+<a href="mailto:contato@anajulia-m.oliveira@alura.com.br" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/martinsanajulia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-          
- 
- 
+         
           
 
 
