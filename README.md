@@ -2,7 +2,7 @@
 
 Me chamo Ana Júlia, mais conhecida como Aninha. 
 
-Tenho 20 anos e sou apaixonada por tecnologia e cinema 🎞️
+Tenho 21 anos e sou apaixonada por tecnologia e cinema 🎞️
 
 Atualmente trabalhando na escola de tecnologia **[Alura](https://cursos.alura.com.br/user/ana-oliveira17)** e cursando Análise e Desenvolvimento de Sistemas 🤿 
 
