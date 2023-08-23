@@ -10,7 +10,8 @@ Atualmente trabalhando na escola de tecnologia **[Alura](https://cursos.alura.co
 
 ## Estou estudando
  ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
- ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
  ### Outras tecnologias e ferramentas
  
