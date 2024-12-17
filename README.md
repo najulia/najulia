@@ -1,16 +1,13 @@
 ## Hello world 👋
 
-Me chamo Ana Júlia, mais conhecida como Aninha. 
-
-Tenho 21 anos e sou apaixonada por tecnologia e cinema 🎞️
-
-Atualmente trabalhando na escola de tecnologia **[Alura](https://cursos.alura.com.br/user/ana-oliveira17)** e cursando Análise e Desenvolvimento de Sistemas 🤿 
-
+Me chamo Ana Júlia, tenho 22 anos e sou apaixonada por tecnologia e cinema 🎞️
+Formada em Análise e Desenvolvimento de Sistemas e atualmente estudando desenvolvimento web com ênfase em AWS 🤿 
 
 
 ## Estou estudando
  ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Cloud](https://img.shields.io/badge/aws-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
  ### Outras tecnologias e ferramentas
