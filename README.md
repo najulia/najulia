@@ -2,7 +2,7 @@
 
 My name is **Ana Júlia**, and I'm a 22-year-old technology enthusiast from Brazil!
 
-I hold a degree in Analysis and Systems Development and am currently studying **Cloud Computing** with a focus on **Amazon Web Services (AWS)** ☁️
+I hold a degree in Analysis and Systems Development and am currently studying **Cloud Computing** with focus on **Amazon Web Services (AWS)** ☁️
 
 
 ## 🚀 **What I'm currently studying**
